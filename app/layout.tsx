@@ -28,6 +28,10 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <div className="m-4 p-4 bg-yellow-400 text-black">
+          Main header that will show for every childern component and does not
+          rerender again and again
+        </div>
         {children}
       </body>
     </html>
