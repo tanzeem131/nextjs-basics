@@ -8,3 +8,5 @@ app routing
 5.backend in nextjs
 5.1 route.jsx------------->>>DEFINED GET,PUT,POST etc
 5.2 nextresponse
+6.Dynamic Routing []
+7.Catch all[...]
