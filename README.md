@@ -10,3 +10,4 @@ app routing
 5.2 nextresponse
 6.Dynamic Routing []
 7.Catch all[...]
+8.Static site generation--->>nextjs 15 automatically handle which page should be static site generated or which should be dynamically generated during npm run build
